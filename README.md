@@ -1,0 +1,1 @@
+IntelliJ hot swappable Jetty project
