@@ -1,0 +1,13 @@
+https://api.cloud-endor.illumina.com/v1pre2/users/current
+https://api.cloud-endor.illumina.com/v1pre2/users/current/projects?Limit=2
+https://api.cloud-endor.illumina.com/v1pre2/projects/1
+https://api.cloud-endor.illumina.com/v1pre2/projects/1/analyses
+
+https://api.cloud-endor.illumina.com/v1pre2/genomes
+https://api.cloud-endor.illumina.com/v1pre2/genomes/4
+
+https://api.cloud-endor.illumina.com/v1pre2/users/current/runs
+
+
+
+

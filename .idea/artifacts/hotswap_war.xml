@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hotswap:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="hotswap.war">
+      <element id="artifact" artifact-name="hotswap:war exploded" />
+    </root>
+  </artifact>
+</component>

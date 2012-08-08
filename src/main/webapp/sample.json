@@ -1,0 +1,32 @@
+{"Response":{
+    "Items":[
+        {
+            "Id":"1",
+            "UserOwnedBy":{
+                "Id":"1001",
+                "Href":"v1pre2/users/1001",
+                "Name":"Greg Roberts"
+            },
+            "Href":"v1pre2/projects/1",
+            "Name":"HiSeq 2500",
+            "DateCreated":"\/Date(2012-06-01T16:13:06.0000000)\/"
+        },
+        {
+            "Id":"26",
+            "UserOwnedBy":{
+                "Id":"1003",
+                "Href":"v1pre2/users/1003",
+                "Name":"Ying Wei"
+            },
+            "Href":"v1pre2/projects/26",
+            "Name":"Bolt",
+            "DateCreated":"\/Date(2012-06-01T16:13:06.0000000)\/"
+        }
+    ],
+    "DisplayedCount":2,
+    "TotalCount":4,
+    "Offset":0,
+    "Limit":2,
+    "SortDir":"Asc",
+    "SortBy":"Id"
+}, "ResponseStatus":{}, "Notifications":[]}
